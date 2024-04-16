@@ -15,6 +15,8 @@ AI based job recommendation system using web scrapping all the data has been scr
     applying the machine learning algorithm to build a model
   </li>
   <li>
+    using streamlit to build framework
+  <li>
     deployement of the model
   </li>
 </ul>
