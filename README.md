@@ -1,4 +1,5 @@
-# AI-based-job-recommendation-system-using-web-scrapping
+#Intellirecruit
+<h2> AI-based-job-recommendation-system-using-web-scrapping</h2>
 AI based job recommendation system using web scrapping all the data has been scrapped from glassdoor website
 
 <h2>currently i am working on this project</h2>
