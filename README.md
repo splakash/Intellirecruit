@@ -21,3 +21,5 @@ AI based job recommendation system using web scrapping all the data has been scr
     deployement of the model
   </li>
 </ul>
+
+<img src='https://github.com/splakash/Intellirecruit/blob/main/Intellirecruit.jpeg' width=50%>
